@@ -1,0 +1,9 @@
+Package: com.dinhnguyenx.zoneaodfix
+Name: ZoneAODFix
+Version: 0.1.5
+Architecture: iphoneos-arm64
+Description: Keeps Zone's animated Sleep stage from being overwritten by AOD progress scrubbing.
+Maintainer: dinhnguyenx
+Author: dinhnguyenx
+Section: Tweaks
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000)
